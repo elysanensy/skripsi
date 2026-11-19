@@ -2,5 +2,5 @@
 // NEVER put your service_role / secret key in GitHub Pages.
 window.TASKBOARD_CONFIG = {
   SUPABASE_URL: 'https://bospayldrkbtyxpqjyyv.supabase.co',
-  SUPABASE_PUBLISHABLE_KEY: 'sb_publishable_Vra8AqpnrbWhxcqPYpmosQ_OghCT5fm'
+  SUPABASE_PUBLISHABLE_KEY: 'sb_publishable_P7S1RwKHQosN7I1Eozu2cw_0HQXRg05'
 };
